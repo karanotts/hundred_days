@@ -1,2 +1,6 @@
 # hundred_days
-100 days of code
+
+Python refresher with 100 Days of Code with Angela Yu
+
+100 Days of Code - The Complete Python Pro Bootcamp for 2021
+https://www.udemy.com/course/100-days-of-code/
